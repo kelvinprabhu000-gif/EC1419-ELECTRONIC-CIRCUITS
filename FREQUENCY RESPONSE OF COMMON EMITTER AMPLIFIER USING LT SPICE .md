@@ -15,12 +15,14 @@
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+<img width="1053" height="942" alt="image" src="https://github.com/user-attachments/assets/2a2c187c-1c08-4f6d-b3ca-e992c4b59fde" />
 
 
 ## MODEL GRAPH
 
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
+<img width="1324" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca5dfe08-c2ce-4a6c-9687-2c27704101dd" />
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
