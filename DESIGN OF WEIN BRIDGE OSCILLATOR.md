@@ -20,10 +20,11 @@
 <img width="1600" height="630" alt="image" src="https://github.com/user-attachments/assets/ed3d403e-4a4d-4821-8770-67165b209aba" />
 
 ## Graph
+<img width="1600" height="1199" alt="image" src="https://github.com/user-attachments/assets/cdb7d2e5-57c6-4a36-93f1-2c9b22b998c5" />
+
 <img width="1600" height="977" alt="image" src="https://github.com/user-attachments/assets/c70eebbd-fde3-4ebf-8666-531c8a9c9bdf" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-<img width="1600" height="1199" alt="image" src="https://github.com/user-attachments/assets/cdb7d2e5-57c6-4a36-93f1-2c9b22b998c5" />
 
 Practical frequency of Oscillation = 588Hz
 
