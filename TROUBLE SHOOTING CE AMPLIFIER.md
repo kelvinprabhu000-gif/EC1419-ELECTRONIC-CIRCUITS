@@ -13,7 +13,8 @@
 <img width="1126" height="1546" alt="image" src="https://github.com/user-attachments/assets/99258e13-c9fd-44a9-94b1-9d0047fd4e3d" />
 
 ## Semilog Graph
+<img width="1600" height="1020" alt="image" src="https://github.com/user-attachments/assets/7db91eec-dd54-41cf-8fb4-75f972228789" />
+
 <img width="1600" height="865" alt="image" src="https://github.com/user-attachments/assets/9e3d0de8-9ec0-4e29-9f50-e9daf0e9c0e4" />
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
-<img width="1600" height="1020" alt="image" src="https://github.com/user-attachments/assets/7db91eec-dd54-41cf-8fb4-75f972228789" />
