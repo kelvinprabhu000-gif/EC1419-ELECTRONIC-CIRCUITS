@@ -5,6 +5,8 @@
 <img width="757" height="675" alt="image" src="https://github.com/user-attachments/assets/331e13bb-ff1d-4310-8a70-56cd8f39d5ca" />
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
+<img width="1600" height="986" alt="image" src="https://github.com/user-attachments/assets/6d3fee4b-84ca-447a-b6d3-7fa786c2d274" />
+<img width="1600" height="1346" alt="image" src="https://github.com/user-attachments/assets/1a503a5a-d3d7-4598-8110-c1e6cdde3919" />
 
 ## Tabulations
 
